@@ -70,4 +70,4 @@ self.transforms = A.Compose([
 - DOLG
 - Grayscale 
 
-**Thanks a lot to my team.**
+**Thanks a lot to my team;)**
